@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, 我是刘哲睿 </h1>
 <h3 align="center">一个来自福州大学数据科学与大数据技术的热情好学的学生</h3>
 
-- 🔭 我最近正在学习**软件工程**
+- 🔭 我最近正在学习**机器学习中的深度学习和数据可视化**
 
 - 👯 我正在合作准备**CCF大数据挑战赛**
-
-- 👨‍💻 所有项目展示链接[https://github.com/noen-hh/noen-hh](https://github.com/noen-hh/noen-hh)
 
 - 📝 发表文章链接[https://www.cnblogs.com/Con1427](https://www.cnblogs.com/Con1427)
 
