@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm 刘哲睿</h1>
-<h3 align="center">一个来自福州大学的热情好学的学生</h3>
+<h1 align="center">Hi 👋, 我是刘哲睿 </h1>
+<h3 align="center">一个来自福州大学数据科学与大数据技术的热情好学的学生</h3>
 
 - 🔭 我最近正在学习**软件工程**
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 📝 发表文章链接[https://www.cnblogs.com/Con1427](https://www.cnblogs.com/Con1427)
 
 - 📫 联系方式**3266766974@qq.com**
+
+- 😄 **之后三年的计划是考研继续深造，多参加比赛**
 
 - ⚡ **我希望我能够继续深入学习，取得更高的成就⚡**
 
